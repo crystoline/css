@@ -6,7 +6,7 @@
             "name": "Kunle Adekoya",
             "email": "crystoline@gmail.con",
             "role": "Owner"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.3",
